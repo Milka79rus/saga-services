@@ -1,4 +1,5 @@
 # Список и детали услуг — Redux-Saga
+[![Deploy React App to GitHub Pages](https://github.com/Milka79rus/saga-services/actions/workflows/deploy.yml/badge.svg)](https://github.com/Milka79rus/saga-services/actions/workflows/deploy.yml)
 
  Приложение отображает список услуг сервисного центра и детальную информацию по каждой услуге с обработкой состояний загрузки, ошибок и возможностью повторить запрос.
 
